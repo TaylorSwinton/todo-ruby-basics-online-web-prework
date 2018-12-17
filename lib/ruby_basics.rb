@@ -19,8 +19,8 @@ def return_a_value
   return "Nice"
 end
 
-def last_evaluated_value
-
+def last_evaluated_value(phrase)
+  return phrase
 end
 
 def pizza_party
