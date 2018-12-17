@@ -24,5 +24,5 @@ def last_evaluated_value
 end
 
 def pizza_party(phrase = "cheese")
-  return #{phrase}
+  phrase
 end
